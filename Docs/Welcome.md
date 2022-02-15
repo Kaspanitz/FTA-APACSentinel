@@ -1,4 +1,4 @@
-# Welcome to the FastTrack for Azure Azure Sentinel Call - Asia Edition
+# Welcome to the FastTrack for Azure Microsoft Sentinel Call - Asia Edition
 ## We will start 3-4 minutes after the scheduled time to accommodate those still connecting
 
 #### [home](./welcome.md)  | [next](./Introduction.md)
@@ -12,7 +12,7 @@
 Please give us your feedback on https://aka.ms/ftalive-feedback
 
 Agenda
-1. [What is Azure Sentinel?](./Introduction.md)
+1. [What is Microsoft Sentinel?](./Introduction.md)
 1. [Pre-requisites for deploying Azure Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/prerequisites)
 1. [QuickStart](https://docs.microsoft.com/en-us/azure/sentinel/quickstart-onboard)
 
